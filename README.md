@@ -1,10 +1,12 @@
 # AKTU-RESULT 👍 👍
-This is a google sheet that I created for calculating grade_point,grade_score,SGPA and CGPA
+This is a google sheet that helps you in calculating grade point,grade_score,SGPA , CGPA and more.
 
 This is a general project in which I created a template for calculating your overall result for all the 8 semesters.
 
 - [Google Sheets Link 🔗](https://docs.google.com/spreadsheets/d/1a_fN2U5p-HD5DPHgHsJjcsgswwaduWfymiYBmYKTOS4/edit?usp=sharing)
 - [Github Repo Link 🔗](https://github.com/Prakhargarg-2010196/AKTU-RESULT)
+
+- Note : [Instructions on how to copy this sheet to your google drive](https://www.spreadsheetclass.com/google-sheets-make-a-copy-of-a-file/)
 
 ## Instructions on using this sheet  ❓❓
 There are 8 sheets as of now in this single google sheet one for each semester.
@@ -59,7 +61,10 @@ This sheet is your overall result and hence contains all the details including t
 - `CGPA(sgpa_sem1, credit_sem1, sgpa_sem2, credit_sem2, sgpa_sem3, credit_sem3, sgpa_sem4, credit_sem4, sgpa_sem5, credit_sem5, sgpa_sem6, credit_sem6, sgpa_sem7, credit_sem7, sgpa_sem8, credit_sem8, range_cells_credits)` 
 - The above function takes the semester wise sgpa and credits and then gives back the cgpa
 
-
 ## References 
 - [Grading and Calculations AKTU 🔗](https://aktu.ac.in/pdf/about-us/B.%20Tech.%20Ordinance_2016-17.pdf)
+
+## In future I would convert this into web-app maybe for ease of use case but as of right now this is what I am using.If anyone wants to collaborate for this project please contact me.Hope this helps!! 
+My socials are all here : https://bento.me/prakhargarg
+
 
